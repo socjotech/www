@@ -268,3 +268,129 @@ Niezależność, decentralizacja, reagowanie i adaptacja w społeczeństwie Soci
 
 ## BROWSEEK - wyszukiwarka bez cenzury
 
+
+
+
+# Usługi
+
+## cyberPrewencja.pl
+
++ cyberobrona
++ cyberochrona
++ cybersecurity
+
+
++ Inicjatywa Obrony Strategicznej
++ Strategic Defense Initiative 
+
+Do kompetencji należy również wykrywanie zagrożeń, wycieku informacji oraz zabezpieczanie (szyfrowanie) poufnych danych, tak by chronić je przed konkurencją, organami ścigania lub innymi osobami postronnymi. Wspomaganie konkurencyjności firm na rynku poprzez analizę działań tożsamych firm, w tym identyfikację ich pośredników i dostawców.
+
+## cyberKryminalni.pl
+
++ 
+
+Postęp technologiczny daje nam wiele korzyści. Rodzi jednak nowe, nieznane wcześniej zagrożenia. Nie zobaczysz ich na ulicy. Przeniosły się do świata wirtualnego. Tym zajmują się cyberKryminalni - specjaliści wydziału do walki z cyberprzestępczością.
+
+W naszej pracy wykorzystujemy najwyższej jakości sprzęt i oprogramowanie monitorujące, 
+Analizatory Widma, Wykrywacze złącz nieliniowych, Sprzęt optyczny i optoelektroniczny, Kamery Termowizyjne i Noktowizyjne. 
+Drony z zoomem i termowizją
+
+
+
+## wywiad.info
+
+Dostarczamy informacji odnośnie działań organizacji
++ Szkolenia, warsztaty jak działać, wspołpracować, sygnaliści
+
+Automaty do szukania news, które są szybko usuwane
+np przegladanie ostatnich newsow i najswiezszych komentarzy pod nimi
+ktore filmy są Usuwane z poziomu wyszukiwarki i niedostępne z powodu np zawieszenia, blokady użytkownika
+
+
+
+
+## ewaporacja.pl
+
+usługi usuwania danych na temat osoby w popularnych wyszukiwarkach
+
+
+
+## blokadakonta.pl 
+
+zgłaszanie blokady
+oraz instrukcja co zrobić krok po kro by odzyskać
+
+
+# SaaS
+
+
+## Browseek
+
+Szukanie stron www, fraz
+
+
+
+## Browseen
+
+Archiwum stron / cache
+
+
+
+
+
+# Serwisy Informacyjne:
+
+
+## infiltracja.pl
+
+
+
+## incydenty.pl
+
+Codzienna informacja o zdarzeniach, lukach, podatnościach w sieciach i aplikacjach
+
+
+
+## raport.org
+
+Raportujemy tygodniowo aktualne wydarzenia do wiedzy publicznej
+
+
+## autoinwigilacja.pl
+
+jak nie dac sie inwigilować,
+instrukcja na co zwracać uwagę przy używaniu, zakładaniu i usuwaniu kont i danych w różnych serwisach
+
+
+
+
+
+
+## cyberatak.com 
+
+Można zgłosić
+
+Instrukcja jak się uchronić 
+Szkolenia o tym jak przebiegają
+
+
+## cyberwarfare.info / cyberwojna.pl
+
+O aktualnych wojnach w sieci
+
+
+
+## zablokowani.pl
+
+informacje o zablokowanych użytkownikach, influencerach
+można zlgasazać i otrzymywac informacje na RSS
+
+
+
+## devalert.pl 
+
+zgłaszanie luk i rozsyłanie przez RSS
+
+
+
+
