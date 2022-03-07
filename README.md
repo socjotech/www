@@ -234,3 +234,37 @@ Nowe kanały płatności dostępne dla lokalnej społeczności jest dostępny od
 
 + lokalne centra danych, offline, niezależne sieci od globalnego innternetu
 
+
+
+
+
+# Świat wokół mnie
+
+Mimo, że nie mam wpływu na te plany globalne to mogę działać lokalnie, nie chciałbym by ludzie umierali bezsensu.
+Tak jak dziś Ukraińcy nie decydują o końcu wojny tak i my nie decydujemy o kryzysach i smierci 200 tysięcy Polaków zamordowanych (poprzez paraliż służby zdrowia) przez rząd warszawski w ostatnich 2 latach.
+
+## Dezinfromacja -> pogarda -> nienawisć ... STOP
+
+Propaganda Bioterrorystów zaowocowała pogardą dla drugiego człowieka.
+Kolejna odsłona, cztyli propaganda cyberterrorystów niesie nienawiść,
+zakończmy to!
+
+## Decentralizacja
+
++ Działajmy w sposób zdecentralizowany, teraz tylko partyzantka ma sens
+
+
+[Partyzantka 2.0 w dobie internetu - partyzantka.pl](https://www.partyzantka.pl/#/)
+
+
+## BRWOSEEN - archiwum
+
+Dla przeciwwagi powstaje dedykowane rozwiązanie da zagrożonych wyginięciem stron, ku Pamięci...
+
+
+
+Niezależność, decentralizacja, reagowanie i adaptacja w społeczeństwie Society 5.0 to istotne kwestie jakie warto znać już dziś.
+
+
+## BROWSEEK - wyszukiwarka bez cenzury
+
