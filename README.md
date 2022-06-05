@@ -50,6 +50,16 @@ W przeciwieństwie do niego globalizm skupia się na globalnych strukturach inst
 Tak rozumiany globalizm bliski jest kosmopolityzmowi czy internacjonalizmowi. 
 
 
+
+## antyglobalizm, antyglobaliści
+
++ kim są?
++ jakie mają cele?
++ czym się zajmują?
++ jak działają?
+
+
+
 ## Służby specjalne
 
 W sytuacji braku danych, dezinformacji, tworzenia fałszywych narracji trudno o zaufanie i pewność co do następstw.
