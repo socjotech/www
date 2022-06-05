@@ -356,7 +356,7 @@ Codzienna informacja o zdarzeniach, lukach, podatnościach w sieciach i aplikacj
 Raportujemy tygodniowo aktualne wydarzenia do wiedzy publicznej
 
 
-## autoinwigilacja.pl
+## auto inwigilacja
 
 jak nie dac sie inwigilować,
 instrukcja na co zwracać uwagę przy używaniu, zakładaniu i usuwaniu kont i danych w różnych serwisach
@@ -380,7 +380,7 @@ O aktualnych wojnach w sieci
 
 
 
-## zablokowani.pl
+## zablokowani
 
 informacje o zablokowanych użytkownikach, influencerach
 można zlgasazać i otrzymywac informacje na RSS
