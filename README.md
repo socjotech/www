@@ -30,6 +30,19 @@ warto jednak nazwać ten problem przejęcia tożsamości i jej transfomracji do 
 
 najłatwiej powiedzieć, ze to globalizm a działania antyglobalne i antyglobalistów jako sprzyjające tożsamości i zachowaniu pokoju wewnątrz narodowych Państw
 
+## Dehumanizacja
+
+Dehumanizacja, to stary działający sposób na przejęcie zasobów wroga, zamiast patrzeć na to jak na zagrożenie warto traktować jako narzędzie i wykorzystać, by np. odzyskać władzę w Polsce.
+
+Gdy rząd warszawski okrada Polaków, wykorzystuje do tego też służby, jednym ze sposobów naprawy sytuacji może być dehumanizacja urzędników, pokazanie ich wad i zwierzęcej strony, jacy są niekompetentni i jak pasożyty żerują na wielu ciężko pracujących Polakach.
+
+Pokazując jacy są bezwzględni w ocenie, jak łatwo narzucają i interpretują przepisy z pozycji siły, poprzez krótkie filmy na social mediach.
+
+Czy wśród miliona urzędników, lekarzy, milicjantów, nauczycieli nie znajdzie się 100 pedofilów? 
+
+Ci, którzy ciężko pracują, nie mają czasu sprawdzać, więc wprowadzając część społeczeństwa w taki świat, można przy pomocy aktywistów zdobyć akceptację dla dehumanizacji urzędników, a następnie .... jesień prawdę nam powie. 
+
+Rząd warszawski, waszyngtoński, czy nawet ten okupujący Palestynę upadną, to naturalna erozja, warto pomyśleć nad procesami erozji. Warto pomóc upadłym aniołom zejść do piekła.
 
 ## Globalizm
 
