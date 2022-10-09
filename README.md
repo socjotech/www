@@ -417,3 +417,5 @@ zgłaszanie luk i rozsyłanie przez RSS
 
 
 
+## BLOGI
+https://sluzbyiobywatel.pl/odkrywam-luke-bezpieczenstwa-w-obiekcie-sww
