@@ -419,3 +419,5 @@ zgłaszanie luk i rozsyłanie przez RSS
 
 ## BLOGI
 https://sluzbyiobywatel.pl/odkrywam-luke-bezpieczenstwa-w-obiekcie-sww
+
+https://www.ciemnastrona.com.pl/krs-msig/2022/02/15/krs-numerki.html
