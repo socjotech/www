@@ -421,3 +421,5 @@ zgłaszanie luk i rozsyłanie przez RSS
 https://sluzbyiobywatel.pl/odkrywam-luke-bezpieczenstwa-w-obiekcie-sww
 
 https://www.ciemnastrona.com.pl/krs-msig/2022/02/15/krs-numerki.html
+
+https://www.ciemnastrona.com.pl/internetowa_inwigilacja/2022/08/13/dns-dot-doh
