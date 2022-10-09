@@ -423,3 +423,32 @@ https://sluzbyiobywatel.pl/odkrywam-luke-bezpieczenstwa-w-obiekcie-sww
 https://www.ciemnastrona.com.pl/krs-msig/2022/02/15/krs-numerki.html
 
 https://www.ciemnastrona.com.pl/internetowa_inwigilacja/2022/08/13/dns-dot-doh
+
+
+
+[Community Business Models - Open Source Ecology](https://wiki.opensourceecology.org/wiki/Community_Business_Models)
+
+> # Community Business Models
+> 
+> From Open Source Ecology
+> 
+> ## Contents
+> 
+> -   [1 Introduction](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Introduction)
+> -   [2 Hydroponic Aquaculture](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Hydroponic_Aquaculture)
+> -   [3 Geodesic domes, polytunnels and low impact structures](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Geodesic_domes.2C_polytunnels_and_low_impact_structures)
+> -   [4 Fablab](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Fablab)
+> -   [5 Metal Working Factory](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Metal_Working_Factory)
+> -   [6 Hablab](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Hablab)
+>     -   [6.1 Minimal Risk Investments](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Minimal_Risk_Investments)
+>     -   [6.2 Buying Out At The Bottom](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Buying_Out_At_The_Bottom)
+>     -   [6.3 Links to business models](https://wiki.opensourceecology.org/wiki/Community_Business_Models#Links_to_business_models)
+> 
+> ## Introduction
+> 
+> The main aim of this page is to show the potential earnings of each sector of a open village culture. The gvcs development has been grouped into five distinct economic categories in order to stream line there developement and highlight the economic incentives.These catergories are Architectural, Agricultural, manufacturing, power engineering and computer automation. The development models are not currently complete and tested business models, however they are to be used as a base line to show the potential benefits to investors as well as the potential cost savings to the fabricators themselves thus allowing for a truely open business process to take place.
+> 
+> Many business models and phases of developement are needed to successfully replicate a working civilization on a small scale from a baker, to an electrician and everything else you can imagine. Hypermodularity should be maintained throughout so the waste products of one system are either recaptured or reused which continuously reduces running costs. Hypermodularity also helps interoperability, that means if its a really awesome product like the ipad, you can basically do anything with it! Systems must be ultra-optimized with integrated upgradability.(the opposite to design obsolescence) That basically means that unlike the iphone it shouldnt need to be thrown away after six months. We are approaching a point in technology where even the ipad will seem redundant and imagine a world where you will be able to reprint the latest model of pentiums processor in your house, print out a sheet and manipulate it like an ipad and then shred it, recycle it and get a better graphics card all in.
+> 
+> That would be ultraoptimised hypermodularity and we might be able to do similar things in a few years.
+> 
