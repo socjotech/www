@@ -452,3 +452,47 @@ https://www.ciemnastrona.com.pl/internetowa_inwigilacja/2022/08/13/dns-dot-doh
 > 
 > That would be ultraoptimised hypermodularity and we might be able to do similar things in a few years.
 > 
+
+
+[Developing personal OPSEC plans: 10 tips for protecting high-value targets | CSO Online](https://www.csoonline.com/article/3429641/developing-personal-opsec-plans-10-tips-for-protecting-high-value-targets.html)
+
+> # Developing personal OPSEC plans: 10 tips for protecting high-value targets
+> 
+> ### Attackers are increasingly targeting executives and employees who have access to sensitive enterprise data. Here's how to protect those individuals with personal OPSEC plans.
+> 
+> -    [![Share on Facebook](https://idge.staticworld.net/images/facebook.svg)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.csoonline.com%2Farticle%2F3429641%2Fdeveloping-personal-opsec-plans-10-tips-for-protecting-high-value-targets.html) 
+> -    [![Share on Twitter](https://idge.staticworld.net/images/twitter.svg)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.csoonline.com%2Farticle%2F3429641%2Fdeveloping-personal-opsec-plans-10-tips-for-protecting-high-value-targets.html&via=csoonline&text=Developing+personal+OPSEC+plans%3A+10+tips+for+protecting+high-value+targets) 
+> -    [![Share on LinkedIn](https://idge.staticworld.net/images/linkedin.svg)](http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.csoonline.com%2Farticle%2F3429641%2Fdeveloping-personal-opsec-plans-10-tips-for-protecting-high-value-targets.html&title=Developing+personal+OPSEC+plans%3A+10+tips+for+protecting+high-value+targets) 
+> -    [![Share on Reddit](https://idge.staticworld.net/images/reddit.svg)](http://reddit.com/submit?url=https%3A%2F%2Fwww.csoonline.com%2Farticle%2F3429641%2Fdeveloping-personal-opsec-plans-10-tips-for-protecting-high-value-targets.html&title=Developing+personal+OPSEC+plans%3A+10+tips+for+protecting+high-value+targets) 
+> -    [![Share by Email](https://idge.staticworld.net/images/mail.svg)](mailto:?Subject=Developing%20personal%20OPSEC%20plans:%2010%20tips%20for%20protecting%20high-value%20targets&Body=Check%20out%20this%20article%20from%20CSO%20Online%3A%20https%3A%2F%2Fwww.csoonline.com%2Farticle%2F3429641%2Fdeveloping-personal-opsec-plans-10-tips-for-protecting-high-value-targets.html) 
+> -    [![Print resource](https://idge.staticworld.net/images/print.svg)](javascript:window.print();) 
+> 
+> $(document).ready(function() { if (twitterHandle != "") { $("a\[href\*=via\]").attr("href", function(\_, href) { return href.replace(/via=csoonline/, "via="+twitterHandle); }); } //Add Social Share Event Tag in GTM - IDGMPM-17271 $("a\[data-socialsite\]").click(function() { var dataLayer = window.dataLayer = window.dataLayer || \[\]; dataLayer.push({ 'event': 'socialShare', 'eventCategory': 'Social Share', 'eventAction': $(this).attr("data-socialsite"), 'eventLabel': window.document.title }); }); }); var isValidEmailAddress = isValidEmailAddress || function(emailAddress) { var pattern = new RegExp(/^\[+a-zA-Z0-9.\_-\]+@\[a-zA-Z0-9.-\]+\\.\[a-zA-Z\]{2,5}$/i); return pattern.test(emailAddress); }; function encodeQueryData(params) { var ret = \[\]; for (var paramKey in params) { ret.push(encodeURIComponent(paramKey) + "=" + encodeURIComponent(params\[paramKey\])); } return ret.join("&"); }
+> 
+> [![James A. Martin](https://images.techhive.com/images/article/2017/02/james-a-martin-photo-100707993-byline.jpeg?auto=webp&quality=85,70)](https://www.csoonline.com/author/James%20A.%20Martin/ "James A. Martin") By [James A. Martin](https://www.csoonline.com/author/James-A.-Martin/)
+> 
+> CSO | 13 August 2019 12:00 CEST 
+> 
+> IDG.GPT.addDisplayedAd("topleaderboard", "true"); $('#topleaderboard').responsiveAd({screenSize:'971 1115', scriptTags: \[\]}); IDG.GPT.log("Creating ad: topleaderboard - \[971 1115\]");
+> 
+> var parallaxArgs = { topNavEl: 'oc-head', topNavIsSticky: true, leaderboadrdId: 'topleaderboard', adContainer: 'viewabilityAdContainer', adUnit: 'viewabilityAdUnit', viewabilityTime: 10000 } //console.log("%c Non-premium article or Insider logged in; wait to see if we have a skin ad before initializing sticky LB", 'background: #222; color: #bada55'); function runStickyLb() { googletag.pubads().addEventListener('slotRenderEnded', function(event) { const slotId = event.slot.getSlotElementId(); if (slotId == 'gpt-skin') { //console.log("%c slotId="+slotId, 'background: #222; color: #bada55'); if (event.isEmpty) { //console.log("%c skin ad NOT running; okay to run sticky leaderboard", 'background: #222; color: #bada55'); parallaxLb(parallaxArgs); } else { //console.log("%c skin ad running; suppress sticky leaderboard and adjust other sticky page elements", 'background: #222; color: #bada55'); document.querySelector("#oc-head").classList.remove("no-stick-important"); //make header sticky again if (document.querySelector("#collection-module-top") !== null) {//if there's a content collection, tuck it into the article body document.querySelector("#collection-module-top").classList.remove("stickfix"); document.querySelector("#collection-module-top").style.position = "static"; } } } }); }; try { IDG.GPT.googleCommandPush(runStickyLb); } catch(e){ console.log('error determining if sticky LB can run: ' + e); }
+> 
+>     ![CSO  >  high-value targets  >  binary targeting of executives](https://images.idgesg.net/images/article/2019/08/cso_binary_tunnel_target_by_metamorworks_gettyimages-1029147330_workforce_workers_employees_professionals_men_suits_briefcases_binary_digital_world_vr_virtual_reality_augmented_reality_by_gremlin_gettyimages-1093674926_2400x1600-100807411-large.jpg?auto=webp&quality=85,70)
+> 
+> Gremlin / Metamorworks / Getty Images
+> 
+> if($(window).width() >= 930) { IDG.GPT.addDisplayedAd("topimu", "true"); $('#topimu').responsiveAd({screenSize:'971 1115', scriptTags: \[\]}); IDG.GPT.log("Creating ad: topimu - \[971 1115\]"); }
+> 
+> #drr-container figure.large.video { border-bottom: 0 none; } figure#page-lede.thm-gallery #bcplayer-gallery #bcplayer-gallery\_ad > div { width: 100%; height: 100%; transition: all 0.5s ease; } .jwplayer.jw-state-paused .jw-display { display: table !important; padding: 0; } .jwplayer .jw-display-icon-container { float: none; padding: 0; margin: 0; } .jw-flag-small-player .jw-display { padding-top: 0px; } .jwplayer .jw-display-icon-container .jw-icon-rewind { visibility: hidden; } .jwplayer .jw-display-icon-container .jw-icon-next { visibility: hidden; } .jwplayer .jw-display-icon-container .jw-icon-display .jw-svg-icon-play path, .jw-state-idle .jw-svg-icon-play path, .jwplayer .jw-display-icon-container .jw-icon-display .jw-svg-icon-replay path, .jw-state-complete .jw-svg-icon-replay path { display: none; } .jwplayer .jw-display-icon-container .jw-icon-display .jw-svg-icon-play, .jw-state-idle .jw-svg-icon-play, .jwplayer .jw-display-icon-container .jw-icon-display .jw-svg-icon-replay, .jw-state-complete .jw-svg-icon-replay { background-size: contain; background-repeat: no-repeat; background-color: transparent; background-image: url(//idge.staticworld.net/idgtv/btn-play-default.svg); background-position: center center; bottom: 0; border-radius: 0; box-shadow: none; left: 0; margin: auto; right: 0; top: 0; } .jwplayer .jw-display-icon-container .jw-icon, .jwplayer .jw-display-icon-container .jw-icon-display .jw-svg-icon-play, .jw-state-idle .jw-svg-icon-play, .jwplayer .jw-display-icon-container .jw-icon-display .jw-svg-icon-replay, .jw-state-complete .jw-svg-icon-replay { height: 81px; width: 78px; } $(document).ready(function() { var params = { def : "editfakeSideBar", geo : getLocale(), aid : 3429641 } $.get( "/napi/tile", params, function(data, status, xhr) { //alert(article); $('#editorialfakesidebardiv').html(data); }, "html"); var params = { def : "sponsoredfakeSideBar", geo : getLocale(), aid : 3429641 } $.get( "/napi/tile", params, function(data, status, xhr) { //alert(article); $('#sponsoredfakesidebardiv').html(data); }, "html"); var params = { def : "nativefakeSideBar", geo : getLocale(), aid : 3429641 } $.get( "/napi/tile", params, function(data, status, xhr) { //alert(article); $('#nativefakesidebardiv').html(data); }, "html"); });
+> 
+> var supLocaleEd = false; if (typeof countryCode !== 'undefined' && countryCode !== "" && countryCode === 'in' || (brandAbbrev === 'cio' && countryCode === 'nz')) { supLocaleEd = true; }
+> 
+> if (supLocaleEd === true) { $("div#inread").remove(); } else { IDG.GPT.addDisplayedAd("inread", "true"); IDG.GPT.displayGoogleTagSlot('inread'); }
+> 
+> var dataLayer = window.dataLayer = window.dataLayer || \[\]; dataLayer.push({ 'event': 'loadTopCollectionModule' });
+> 
+> Criminal hackers are targeting a wide range of employees, from administrative assistants to the C-suite executives they serve. As cybersecurity firm [Proofpoint](https://www.secureworldexpo.com/resources/very-attacked-person) puts it, the hackers’ goals are to “trick your workers into opening an unsafe attachment or clicking on a dubious web link. They impersonate your CEO and order your finance department to wire money. And they con your customers into sharing login credentials with a website they think is yours.”
+> 
+> Most enterprise IT systems are well protected against, though not invulnerable to, cyberattacks. But the personal devices and online tools employees use after hours can be less secure, providing a potential bypass around enterprise security.
+
+
