@@ -30,6 +30,77 @@ warto jednak nazwać ten problem przejęcia tożsamości i jej transfomracji do 
 
 najłatwiej powiedzieć, ze to globalizm a działania antyglobalne i antyglobalistów jako sprzyjające tożsamości i zachowaniu pokoju wewnątrz narodowych Państw
 
+## Dezinformacja
+
+Nie ma możliwości stworzenia jednej definicji wartościowej informacji, ponieważ jest to każdorazowo kwestia subiektywnej oceny.Każde źródło należy oceniać przez pryzmat ryzyka z nim związanego, tj. wprowadzenia go w celu dezinformacji czy też działań propagandowych. Brak skrupulatnego sprawdzania informacji – początkiem końca.
+Należy odpowiedzieć sobie na kilkanaście pytań. Im większa liczba potwierdzeń, tym można uznać dane źródło za bardziej wiarygodne.
+
+Czy informacja, którą zdobyliśmy, jest potwierdzana w jakimkolwiek innym źródle? (Jeżeli jednak informacja zawiera innowacyjne dane, nie ma możliwości, aby były one gdzieś potwierdzone).
+
+Czy publikacja jest logiczna? (Publikacje oparte na emocjach zazwyczaj mają dużo elementów związanych z mało wiarygodnymi informacjami).
+Relewantność źródła wobec naszych potrzeb: czy źródło w pełnym lub znacznym stopniu wyczerpuje nasze potrzeby, czy też tylko dotyka tematu? (To bardzo ważny element 
+oceny nie tylko jego wiarygodności, ale i przydatności).
+
+Czy informacja pochodzi ze źródła pierwotnego? Jeżeli nie: czy jesteśmy w stanie dotrzeć do miejsca wytworzenia informacji? (Miejsce publikacji informacji jest równie ważne, np. inna ocena wiarygodności należy się informacji z portalu specjalistycznego, a inna z plotkarskiego).
+
+Czy źródło jest rekomendowane przez ekspertów związanych z daną dziedziną?
+
+Czy źródło zawiera fakty, które są poparte dowodami, czy są to TYLKO opinie? (Nie mówię, że same opinie od razu przekreślają źródło, ale warto, aby każda z nich była poparta dowodami).
+
+Czy znamy autora informacji, a jeżeli tak, to czy jest on wiarygodny? (Czy da się sprawdzić autora, np. kontaktując się z nim; czy jest on ekspertem w danej dziedzinie? Czasem niektóre informacje posiadają anonimowego autora, co powinno wzbudzić szczególną ostrożność).
+
+Czy wiesz, z jakiego środowiska jest autor (przedsiębiorca/uczelnia)? Jeżeli tak: czy to środowisko jest wiarygodne?
+
+Czy znasz branżę związaną z daną informacją, a jeżeli tak, czy według Ciebie jest ona wiarygodna? (Czy na przykład nie tworzy treści nastawionych na reklamę zamiast neutralnych opinii?)
+
+Czy pojawiły się już jakieś komentarze na temat danej informacji? (Czy eksperci z danej dziedziny wypowiadali się na ten temat? Jeżeli nie, można poprosić ich o komentarz).
+
+Czy można sprawdzić aktualność informacji? (Czy znalezione informacje mają datę publikacji, czy któryś z elementów w treści nie zawiera informacji nieaktualnych?)
+
+Czy na źródło powoływał się ktoś wiarygodny?
+
+Czy źródło wygląda profesjonalnie? (Jeżeli na przykład informacje pozyskujemy z Internetu, należy sprawdzić kilka danych na temat strony, tj. popularność, użyteczność oraz dostępność strony).
+
+Czy znalezione informacje są kompletne? (Czy wyczerpują nasze zapotrzebowanie informacyjne na dany temat?)
+
+Czy źródło reprezentuje czyjeś interesy, a jeżeli tak, czy wiemy, jakie to są interesy? (Obiektywizm źródła to ważny element, choć bardzo rzadki. Zawsze warto zadać 
+to pytanie, prościej nam będzie wtedy odpowiedzieć sobie na inne: czemu dany autor publikował tego typu informację – a przez to jej ocena będzie znacznie łatwiejsza).
+Nie zawsze ocena wiarygodności źródła jest tak prosta, a informacja, którą pozyskaliśmy, może mieć bardzo mało potwierdzeń w powyższych pytaniach. Dzieje się tak przede wszystkim podczas poszukiwania informacji zawierających innowacyjne dane – nie zawsze trzeba je odrzucać. Wszystko pozostaje w rękach analityka– im jest on sprawniejszy i bardziej doświadczony, tym większa szansa, że odpowiednio oceni wiarygodność informacji. Żyjemy w świecie, w którym aby wyprzedzić konkurencję, często trzeba ryzykować, jednak przekazując daną informację dalej, np. osobie decyzyjnej, należy wtedy jasno zaznaczyć, że nie udało się potwierdzić wiarygodności źródła.”
+
+
+Przeszkodą na drodze do oceny wiarygodności są tzw. błędy poznawcze. O błędzie poznawczym mówimy wtedy, gdy dokonujemy nieracjonalnej oceny rzeczywistości. Do najpopularniejszych z błędów poznawczych, o których mówią nauki społeczne należą:
+
+Efekt autorytetu – zakładanie, że dane twierdzenie musi być prawdą jeśli zostało sformułowane przez osobę będącą autorytetem. Bardzo często przy tym dochodzi do bezpodstawnego uznania kogoś za autorytet w danej dziedzinie (np. pielęgniarka czy ratownik medyczny uznawani za ekspertów od szczepień ponieważ pracują w służbie zdrowia).
+
+Efekt potwierdzenia – tendencja do poszukiwania wyłącznie faktów potwierdzających posiadaną opinię, a nie weryfikujących ją.
+
+Efekt wspierania decyzji – tendencja do lepszego pamiętania argumentów przemawiających za podjętą już decyzją niż przeciwko niej.
+
+Efekt zaprzeczania – tendencja do krytycznego weryfikowania informacji, które zaprzeczają dotychczasowym opiniom, przy jednoczesnym bezkrytycznym akceptowaniu informacji, które je potwierdzają.
+
+Zasada podczepienia – tendencja do robienia czegoś lub wierzenia w coś tylko dlatego, że wiele osób tak robi.
+Powodują, że dużo lepiej zapamiętujemy fakty, które są potwierdzeniem naszych przekonań, nawet jeśli tych przeczących jest znacznie więcej; powodują, że tak ciężko jest nam zmienić przekonania.
+
+Błędy poznawcze są również bardzo chętnie wykorzystywane przez osoby manipulujące opinią publiczną. Wspomniana zasada podczepienia (znana też jako społeczny dowód słuszności) leży u podstaw Goebbelsowskiego twierdzenia, że kłamstwo powtórzone tysiąc razy staje się prawdą.
+Elementy, które sprawiają, że wojna informacyjna jest skuteczna:
+
+Brak czasu, chęci lub zdolności do weryfikowania faktów w różnych źródłach.
+
+Brak logicznej argumentacji, zamiast tego emocjonalna reakcja na inny punkt widzenia.
+
+Błędy poznawcze – łatwość zapamiętywania informacji zgodnych z naszym światopoglądem, brak krytycznego podejścia, zaufanie do autorytetów, które tak naprawdę nimi nie są. Również sympatie i przekonania, które powodują, że odbieramy świat jako czarno-biały. Jeśli ktoś w jakimś aspekcie prezentuje postawę, z którą się nie zgadzamy to wszelkie jego opinie będziemy traktować jako niegodne zaufania (i odwrotnie).
+
+Bańka informacyjna – efekt działania algorytmów w sieciach społecznościowych.
+Ograniczone (u niektórych wybitnie) zdolności do przetwarzania, analizowania i interpretowania informacji
+Łatwowierność w teorie (również spiskowe) za sprawą ich przedstawienia w sposób sensacyjny i atrakcyjny, tak by nie pozostawiały miejsca na żadne wątpliwości.
+Różnorodność odbiorców.
+
+Techniki manipulacji (np. zasada 40/60, społeczny dowód słuszności, kłamstwo powtarzane tysiąc razy).
+perfidia osób, które wykorzystują manipulację.
+
+Miejmy zatem ograniczoną wiarę w organizacje, które zajmują się tzw. fact-checkingiem – publikują one na bieżąco analizy dotyczące 'wiarygodności aktualnych doniesień medialnych’
+
+
 ## Dehumanizacja
 
 Dehumanizacja, to stary działający sposób na przejęcie zasobów wroga, zamiast patrzeć na to jak na zagrożenie warto traktować jako narzędzie i wykorzystać, by np. odzyskać władzę w Polsce.
